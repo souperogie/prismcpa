@@ -14,7 +14,7 @@
 						<div class="col-sm-6 col-centered">
 							<h3>CONTACT US</h3>
 							<hr class="hr-divider">
-							<h4 style="color:whitesmoke;">Stay connected with us!</h4>
+							<h4 style="color:white;">Stay connected with us!</h4>
 							<h5 class="texth"><span class="fa fa-map-marker"> 2nd Floor Morales Commercial Complex, National Highway, Brgy. San Antonio, City of Biñan, Laguna</h5>
 							<h5 class="texth"><span class="fa fa-phone"> +63-92-2832-8134</h5><br>
 							<h5 class="texth"><span class="fa fa-google"> prismcpareview@gmail.com</h5>

@@ -34,16 +34,16 @@
 					<li class="nav-link dropdown">
 						<a href="<?php echo base_url('/about'); ?>">About <span class="caret"></span></a>
 						<ul class="dropdown-menu">
-							<li class="dropdown-item"><a href="<?php echo base_url('/about'); ?>">Mision and Vision</a></li>
-							<li class="dropdown-item"><a href="<?php echo base_url('/about 	'); ?>">Lecturer</a></li>
+							<li class="dropdown-item"><a href="<?php echo base_url('/about#MissionVision'); ?>">Mision and Vision</a></li>
+							<li class="dropdown-item"><a href="<?php echo base_url('/about#Lecturer'); ?>">Lecturer</a></li>
 						</ul>
 					</li>
 					
 					<li class="nav-link"><a href="<?php echo base_url('/gallery'); ?>">Gallery</a></li>
 					<li class="nav-link"><a href="<?php echo base_url('/faqs'); ?>">FAQ</a></li>
 					<li class="nav-link"><a href="<?php echo base_url('/schedule'); ?>">Class Schedule</a></li>
-					<li class="nav-link"><a href="<?php echo base_url('/cpd'); ?>">CPD</a></li>
-					<li class="nav-link"><a href="<?php echo base_url('/or'); ?>">ONLINE REVIEW</a></li>
+					<li class="nav-link"><a href="#" style="cursor: not-allowed;">CPD</a></li>
+					<li class="nav-link"><a href="#" style="cursor: not-allowed;">ONLINE REVIEW</a></li>
 				</ul>
 				<ul class="nav navbar-nav navbar-right">
 					 <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
@@ -71,8 +71,8 @@
 					<li class="nav-link dropdown">
 						<a href="<?php echo base_url('/about'); ?>">About <span class="caret"></span></a>
 						<ul class="dropdown-menu">
-							<li class="dropdown-item"><a href="<?php echo base_url('/mission'); ?>">Mision and Vision</a></li>
-							<li class="dropdown-item"><a href="<?php echo base_url('/lecturer'); ?>">Lecturer</a></li>
+							<li class="dropdown-item"><a href="<?php echo base_url('/about#MissionVision'); ?>">Mision and Vision</a></li>
+							<li class="dropdown-item"><a href="<?php echo base_url('/about#Lecturer'); ?>">Lecturer</a></li>
 						</ul>
 					</li>
 

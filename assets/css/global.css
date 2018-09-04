@@ -8,6 +8,10 @@ body {
     overflow-x: hidden;
 }
 
+p, h1, h2, h3, h4, h5, h6 {
+	color: black;
+}
+
 p {
 	font-family: 'Roboto', serif;
     letter-spacing: 0.5px;
@@ -50,9 +54,9 @@ p {
 	border: 0;
 	border-top-left-radius: 0 !important;
 	border-top-right-radius: 0 !important;
-	-webkit-box-shadow: 3px 5px 10px #999;
+	/*-webkit-box-shadow: 3px 5px 10px #999;
 	-moz-box-shadow: 3px 5px 10px #999;
-	box-shadow: 3px 5px 10px #999;
+	box-shadow: 3px 5px 10px #999;*/
 }
 /*
 .navbar .nav .nav-link {
@@ -75,9 +79,9 @@ p {
 .navbar .nav .dropdown .dropdown-menu {
 	border: 0;
 	background-color: #001e4f;
-	-webkit-box-shadow: 3px 5px 10px #999;
+	/*-webkit-box-shadow: 3px 5px 10px #999;
 	-moz-box-shadow: 3px 5px 10px #999;
-	box-shadow: 3px 5px 10px #999;
+	box-shadow: 3px 5px 10px #999;*/
 }
 
 .navbar .nav li a:hover, .navbar .nav li a:active, .navbar .nav li a:focus,
@@ -170,30 +174,46 @@ p {
 	justify-content: center;
 }
 
+.card-holder .btn-group-xs .btn-tomato {
+	font-size: 15px;
+	border-radius: 5px;
+	bottom: 5px;
+}
+
+.card-holder .btn-group-xs {
+	position: absolute;
+	bottom: 5px;
+	right: 90px;
+}
+
 .card-holder {
-	display: flex;
-	flex-direction: column;
-	
+	position: relative;
+
 	margin-right: 20px;
 	margin-left: 19px;
 	margin-bottom: 39px;
 
 	border: 1px solid gray;
-	border-radius: 5px;
+	border-radius: 3px;
 
 	background-color: whitesmoke;
 	padding: 5px;
-	width: 150px;
-	height: 250px;
+	width: 250px;
+	height: 330px;
 
 	justify-content: center;
 	text-align: center;
 
-	-webkit-box-shadow: 3px 5px 10px #999;
+	/*-webkit-box-shadow: 3px 5px 10px #999;
 	-moz-box-shadow: 3px 5px 10px #999;
-	box-shadow: 3px 5px 10px #999;
+	box-shadow: 3px 5px 10px #999;*/
 	
-	transition: 0.3s
+	transition: 0.5s
+}
+
+.card-holder .title {
+	color: grey;
+	font-size: 15px;
 }
 
 .card-holder:hover {
@@ -229,9 +249,9 @@ p {
 	border: 0;
 	border-top-left-radius: 0 !important;
 	border-top-right-radius: 0 !important;
-	-webkit-box-shadow: 3px 5px 10px #999;
+	/*-webkit-box-shadow: 3px 5px 10px #999;
 	-moz-box-shadow: 3px 5px 10px #999;
-	box-shadow: 3px 5px 10px #999;
+	box-shadow: 3px 5px 10px #999;*/
 
 	position: fixed;
 	top: 0;
@@ -261,9 +281,9 @@ p {
 .navbar-scroll .nav .dropdown .dropdown-menu {
 	border: 0;
 	background-color: tomato;
-	-webkit-box-shadow: 3px 5px 10px #999;
+	/*-webkit-box-shadow: 3px 5px 10px #999;
 	-moz-box-shadow: 3px 5px 10px #999;
-	box-shadow: 3px 5px 10px #999;
+	box-shadow: 3px 5px 10px #999;*/
 }
 
 .navbar-scroll .nav li a:hover, .navbar-scroll .nav li a:active, .navbar-scroll .nav li a:focus,

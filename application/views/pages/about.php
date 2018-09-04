@@ -1,4 +1,4 @@
-<div class="page-wrapper container">
+<div class="page-wrapper container" id="MissionVision">
 	<div class="inner-page container-fluid">
 		<div class="all-data-holder">
 			<h2 style="text-align: center; color: tomato;">Mission</h2>
@@ -28,7 +28,7 @@
 	</div>
 </div>
 <br><br>
-<div class="page-wrapper container">
+<div class="page-wrapper container" id="Lecturer">
 	<div class="inner-page container-fluid">
 		<div class="all-data-holder">
 			<h2 style="font-weight: bolder; letter-spacing: 3px; text-align: center; color: tomato;">LECTURER</h2>
@@ -36,18 +36,19 @@
 		<div class="lect-data-holder container-fluid">
 			<div class="card-holder">
 				<img src="assets/img/avatar.png" style="margin: auto;">
-				<h4><b>Kristoffer "Toff" Aquino</b></h4>
-				<p>CPA -- MAS</p>
+				<h4><b>Kristoffer "Toff" Aquino, CPA</b></h4>
+				<p class="title">B.S Business Management Major in Entrepreneurship - De La Salle University Manila</p>
+				<p class="title">B.S Economics - De La Salle University of Manila</p>
 				<div class="btn-group-xs">
-					<a href="https://www.facebook.com/" target="_blank" class="btn btn-tomato"><span class="fa fa-facebook"</span></a>
+					<a href="https://www.facebook.com/" target="_blank" class="btn btn-tomato"><span class="fa fa-facebook"></span></a>
 					<a href="https://twitter.com/" target="_blank" class="btn btn-tomato"><span class="fa fa-twitter"></span></a>
 					<a href="#" class="btn btn-tomato"><span class="fa fa-instagram"></span></a>
 				</div>
 			</div>
 			<div class="card-holder">
 				<img src="assets/img/avatar.png" style="margin: auto;">
-				<h4><b>Justine Ray Alomina</b></h4>
-				<p>CPA -- AFAR</p>
+				<h4><b>Justine Ray Alomina, CPA</b></h4>
+				<p class="title">Master of Business Administration (in process) - San Sebastian College</p>
 				<div class="btn-group-xs">
 					<a href="#" class="btn btn-tomato"><span class="fa fa-facebook"></span></a>
 					<a href="#" class="btn btn-tomato"><span class="fa fa-twitter"></span></a>
@@ -56,8 +57,8 @@
 			</div>
 			<div class="card-holder">
 				<img src="assets/img/avatar.png" style="margin: auto;">
-				<h4><b>Raniel "Rain" Sorano</b></h4>
-				<p>CPA -- FAR</p>
+				<h4><b>Rainiel "Rain" Sorano, CPA</b></h4>
+				<p class="title">B.S Accountancy - Tarlac State University</p>
 				<div class="btn-group-xs">
 					<a href="#" class="btn btn-tomato"><span class="fa fa-facebook"></span></a>
 					<a href="#" class="btn btn-tomato"><span class="fa fa-twitter"></span></a>
@@ -67,7 +68,7 @@
 			<div class="card-holder">
 				<img src="assets/img/avatar.png" style="margin: auto;">
 				<h4><b>Atty.Almanzor P. Sarip Macmod</b></h4>
-				<p>CPA -- RFBT</p>
+				<p class="title">B.S Accountancy - University of Santo Tomas</p>
 				<div class="btn-group-xs">
 					<a href="#" class="btn btn-tomato"><span class="fa fa-facebook"></span></a>
 					<a href="#" class="btn btn-tomato"><span class="fa fa-twitter"></span></a>
@@ -76,8 +77,8 @@
 			</div>
 			<div class="card-holder">
 				<img src="assets/img/avatar.png" style="margin: auto;">
-				<h4><b>Romelo Gloria</b></h4>
-				<p>CPA -- TAX/AUT</p>
+				<h4><b>Ramelo "Melo" Gloria, CPA, MBA</b></h4>
+				<p class="title">B.S Accountancy - Polytechnic University of the Philippines - Magna Cum Laude</p>
 				<div class="btn-group-xs">
 					<a href="#" class="btn btn-tomato"><span class="fa fa-facebook"></span></a>
 					<a href="#" class="btn btn-tomato"><span class="fa fa-twitter"></span></a>
@@ -86,8 +87,8 @@
 			</div>
 			<div class="card-holder">
 				<img src="assets/img/avatar.png" style="margin: auto;">
-				<h4><b>Manolito Cerda</b></h4>
-				<p>CPA -- AUP</p>
+				<h4><b>Manolito Cerda, CPA, MBA</b></h4>
+				<p class="title">B.S Commerce Major in Accounting - Far Eastern University - Cum Laude</p>
 				<div class="btn-group-xs">
 					<a href="#" class="btn btn-tomato"><span class="fa fa-facebook"></span></a>
 					<a href="#" class="btn btn-tomato"><span class="fa fa-twitter"></span></a>
@@ -96,8 +97,8 @@
 			</div>
 			<div class="card-holder">
 				<img src="assets/img/avatar.png" style="margin: auto;">
-				<h4><b>Melbourne Mercado</b></h4>
-				<p>CPA -- AUT</p>
+				<h4><b>Melbourne Mercado, CPA</b></h4>
+				<p class="title">B.S Accountancy - University of Perpetual Help System Laguna</p>
 				<div class="btn-group-xs">
 					<a href="#" class="btn btn-tomato"><span class="fa fa-facebook"></span></a>
 					<a href="#" class="btn btn-tomato"><span class="fa fa-twitter"></span></a>
@@ -116,8 +117,9 @@
 			</div>
 			<div class="card-holder">
 				<img src="assets/img/avatar.png" style="margin: auto;">
-				<h4><b>Vicente Gudani</b></h4>
-				<p>CPA -- Tax</p>
+				<h4><b>Vicente Gudani, CPA</b></h4>
+				<p class="title">CPD Lecturer</p>
+				<p class="title">FEU Project Coordinator</p>
 				<div class="btn-group-xs">
 					<a href="#" class="btn btn-tomato"><span class="fa fa-facebook"></span></a>
 					<a href="#" class="btn btn-tomato"><span class="fa fa-twitter"></span></a>
@@ -130,8 +132,10 @@
 		<div class="other-lecturer container-fluid">
 			<div class="card-holder">
 				<img src="assets/img/avatar.png" style="margin: auto;">
-				<h4><b>Vicente Gudani</b></h4>
-				<p>CPA -- Tax</p>
+				<h4><b>Rommel Rhino Edusma, CPA</b></h4>
+				<p class="title">Topnotcher: #1 July 2014 CPA Licensure Exam</p>
+				<p class="title">Former SGV Senior Associate</p>
+				<p class="title">Juris Doctor (in process)</p>
 				<div class="btn-group-xs">
 					<a href="#" class="btn btn-tomato"><span class="fa fa-facebook"></span></a>
 					<a href="#" class="btn btn-tomato"><span class="fa fa-twitter"></span></a>
@@ -140,8 +144,8 @@
 			</div>
 			<div class="card-holder">
 				<img src="assets/img/avatar.png" style="margin: auto;">
-				<h4><b>Vicente Gudani</b></h4>
-				<p>CPA -- Tax</p>
+				<h4><b>Christopher Opis, CPA</b></h4>
+				<p class="title">B.S Accountancy - Malayan College Laguna</p>
 				<div class="btn-group-xs">
 					<a href="#" class="btn btn-tomato"><span class="fa fa-facebook"></span></a>
 					<a href="#" class="btn btn-tomato"><span class="fa fa-twitter"></span></a>
