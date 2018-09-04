@@ -42,8 +42,8 @@
 					<li class="nav-link"><a href="<?php echo base_url('/gallery'); ?>">Gallery</a></li>
 					<li class="nav-link"><a href="<?php echo base_url('/faqs'); ?>">FAQ</a></li>
 					<li class="nav-link"><a href="<?php echo base_url('/schedule'); ?>">Class Schedule</a></li>
-					<li class="nav-link"><a href="#" style="cursor: not-allowed;">CPD</a></li>
-					<li class="nav-link"><a href="#" style="cursor: not-allowed;">ONLINE REVIEW</a></li>
+					<li class="nav-link"><a href="<?php echo base_url('/cpd'); ?>">CPD</a></li>
+					<li class="nav-link"><a href="<?php echo base_url('/or'); ?>">ONLINE REVIEW</a></li>
 				</ul>
 				<ul class="nav navbar-nav navbar-right">
 					 <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
@@ -79,8 +79,8 @@
 					<li class="nav-link"><a href="<?php echo base_url('/gallery'); ?>">Gallery</a></li>
 					<li class="nav-link"><a href="<?php echo base_url('/faqs'); ?>">FAQ</a></li>
 					<li class="nav-link"><a href="<?php echo base_url('/schedule'); ?>">Class Schedule</a></li>
-					<li class="nav-link"><a href="#" style="cursor: not-allowed;">CPD</a></li>
-					<li class="nav-link"><a href="#" style="cursor: not-allowed;">ONLINE REVIEW</a></li>
+					<li class="nav-link"><a href="<?php echo base_url('/cpd'); ?>">CPD</a></li>
+					<li class="nav-link"><a href="<?php echo base_url('/or'); ?>">ONLINE REVIEW</a></li>
 				</ul>
 				<ul class="nav navbar-nav navbar-right">
 					 <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
