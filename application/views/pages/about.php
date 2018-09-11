@@ -3,26 +3,14 @@
 		<div class="all-data-holder">
 			<h2 style="text-align: center; color: tomato;">Mission</h2>
 			<p>
-				Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto hic praesentium ducimus, nulla odit numquam. Molestiae, porro non sapiente quam itaque, a sunt saepe doloremque cumque laboriosam labore est nobis?
-				Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore quam numquam, consectetur maxime veritatis consequuntur amet ullam eveniet consequatur facere perspiciatis error laborum rem, odit quas a aliquid nostrum earum.
-				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis, dolore nam. Laboriosam repellat iste deserunt. Facilis animi corrupti beatae impedit. Quisquam, praesentium! Beatae temporibus asperiores architecto corrupti voluptatem. Voluptate, atque.
-				Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae tenetur minima temporibus harum ab quaerat vel possimus neque voluptatum nesciunt, illum accusantium suscipit deleniti dolorem corrupti aliquid iure voluptas sequi!
-				Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio dolorum tenetur laboriosam placeat molestiae delectus doloribus voluptatem ipsa repellat quaerat culpa accusamus nobis, laborum consequatur. Neque eum cumque incidunt commodi.
-				Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, consequuntur temporibus. Magnam ea eveniet earum, quis maiores enim delectus recusandae odio alias facilis, ut libero sunt sed consectetur inventore dolor?
-				Lorem ipsum dolor, sit amet consectetur adipisicing elit. Placeat possimus autem officia rerum alias impedit vitae! Labore nulla animi tenetur voluptatibus, error fugiat asperiores est corporis tempore cumque, obcaecati blanditiis!
+				PRISM, Inc. is a transformation institution which promotes continuous improvement through advance technology and trending techniques. An innovative professional development system provider which aims to maximize the continuous learning of both men and women specializing in the area of accounting, business and finance through classroom and online training and seminar. 
 			</p>
 
 			<hr class="hr-divider">
 
 			<h2 style="text-align: center; color: tomato;">Vision</h2>
 			<p>
-				Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto hic praesentium ducimus, nulla odit numquam. Molestiae, porro non sapiente quam itaque, a sunt saepe doloremque cumque laboriosam labore est nobis?
-				Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore quam numquam, consectetur maxime veritatis consequuntur amet ullam eveniet consequatur facere perspiciatis error laborum rem, odit quas a aliquid nostrum earum.
-				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis, dolore nam. Laboriosam repellat iste deserunt. Facilis animi corrupti beatae impedit. Quisquam, praesentium! Beatae temporibus asperiores architecto corrupti voluptatem. Voluptate, atque.
-				Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae tenetur minima temporibus harum ab quaerat vel possimus neque voluptatum nesciunt, illum accusantium suscipit deleniti dolorem corrupti aliquid iure voluptas sequi!
-				Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio dolorum tenetur laboriosam placeat molestiae delectus doloribus voluptatem ipsa repellat quaerat culpa accusamus nobis, laborum consequatur. Neque eum cumque incidunt commodi.
-				Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, consequuntur temporibus. Magnam ea eveniet earum, quis maiores enim delectus recusandae odio alias facilis, ut libero sunt sed consectetur inventore dolor?
-				Lorem ipsum dolor, sit amet consectetur adipisicing elit. Placeat possimus autem officia rerum alias impedit vitae! Labore nulla animi tenetur voluptatibus, error fugiat asperiores est corporis tempore cumque, obcaecati blanditiis!
+				PRISM, Inc. is bound to deliver the best professional trainings in both technical and conceptual aspects of the profession not limited to CPAs but also to those professionals who devote themselves to their careers and businesses. Our mission is to provide the best seminars and self-improvement programs in the lowest possible investment.
 			</p>
 		</div>
 	</div>
@@ -108,7 +96,7 @@
 			<div class="card-holder">
 				<img src="assets/img/avatar.png" style="margin: auto;">
 				<h4><b>Rolando Lopez</b></h4>
-				<p>RFBT</p>
+				<p>SPCBA Faculty</p>
 				<div class="btn-group-xs">
 					<a href="#" class="btn btn-tomato"><span class="fa fa-facebook"></span></a>
 					<a href="#" class="btn btn-tomato"><span class="fa fa-twitter"></span></a>

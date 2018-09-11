@@ -48,18 +48,18 @@
 			<div class="col-sm-7">
 				<div class="page-wrapper">
 					<div class="inner-page container-fluid">
-						<div class="all-data-holder">
+						<div class="all-data-holder" style="height: 466px; position: relative;">
 												<h2 style="text-align: left; color: tomato; border-left: 5px solid tomato; padding-left:10px;">HIGHLIGHTS</h2>
 												<hr class="hr-divider">
-							<p style="color:black;">
-								Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto hic praesentium ducimus, nulla odit numquam. Molestiae, porro non sapiente quam itaque, a sunt saepe doloremque cumque laboriosam labore est nobis?
-								Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore quam numquam, consectetur maxime veritatis consequuntur amet ullam eveniet consequatur facere perspiciatis error laborum rem, odit quas a aliquid nostrum earum.
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis, dolore nam. Laboriosam repellat iste deserunt. Facilis animi corrupti beatae impedit. Quisquam, praesentium! Beatae temporibus asperiores architecto corrupti voluptatem. Voluptate, atque.
-								Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto hic praesentium ducimus, nulla odit numquam. Molestiae, porro non sapiente quam itaque, a sunt saepe doloremque cumque laboriosam labore est nobis?
-								Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore quam numquam, consectetur maxime veritatis consequuntur amet ullam eveniet consequatur facere perspiciatis error laborum rem, odit quas a aliquid nostrum earum.
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis, dolore nam. Laboriosam repellat iste deserunt. Facilis animi corrupti beatae impedit. Quisquam, praesentium! Beatae temporibus asperiores architecto corrupti voluptatem. Voluptate, atque.
-							</p>
-							<hr class="hr-divider">
+
+												<h2>Official website now accessible and 100% working!</h2><br><br>
+							<h4>
+								PRISM – Batangas: To conduct its 1st CPD offering. <a style="color: blue;" href="https://www.facebook.com/prismcpareview/"><i>PRISM Batangas</i></a>
+							</h4><br>
+							
+							<h4>
+								1st CPD Seminar in Biñan Center (August 28-30, 2018) – Incredible resource speakers. <a style="color: blue;" href="<?php echo base_url('/gallery'); ?>"><i>Click here</i></a>
+							</h4>
 						</div>
 					</div>
 				</div>
@@ -67,30 +67,24 @@
 			<div class="col-sm-5">
 				<div class="page-wrapper">
 					<div class="inner-page container-fluid">
-						<div class="all-data-holder">
+						<div class="all-data-holder" style="overflow-x: scroll; height: 484px;">
 								<h2 style="text-align: left; color: tomato; border-left: 5px solid tomato; padding-left:10px;">ANNOUNCEMENTS</h2>
 																			<hr class="hr-divider">
 							  <ul class="nav nav-pills">
-							    <li class="active"><a data-toggle="pill" href="#home" style="padding-top: 5px; padding-bottom: 5px;">This Week</a></li>
-							    <li><a data-toggle="pill" href="#menu1" style="padding-top: 5px; padding-bottom: 5px;">This Month</a></li>
-							    <li><a data-toggle="pill" href="#menu2" style="padding-top: 5px; padding-bottom: 5px;">All time</a></li>
+							    <li class="active"><a data-toggle="pill" href="#menu1" style="padding-top: 5px; padding-bottom: 5px;">This Week</a></li>
+							    <li><a data-toggle="pill" href="#menu2" style="padding-top: 5px; padding-bottom: 5px;">This Month</a></li>
+							    <li><a data-toggle="pill" href="#home" style="padding-top: 5px; padding-bottom: 5px;">All time</a></li>
 							  
 							  <div class="tab-content" style="height:365px;">
-								    <div id="home" class="tab-pane fade in active">
-								    	<br><br>
-
-
-								    </div>
-								    <div id="menu1" class="tab-pane fade">
-								    	<br>
-
-								    </div>
-								    <div id="menu2" class="tab-pane fade">
-								    	<br> <br>
-								      <h5 class="lol">Deadline of Payment for Open Final Preboard <span class="badge" style="background-color:tomato; cursor: pointer;">Read More</span></h5>
-								      <h5 class="lol">OPEN FINAL PREBOARD</h5>
-								      <h5 class="lol">CPD Seminar</h5>							     
-
+							  	<div id="menu1" class="tab-pane fade in active"><br><br></div>
+								<div id="menu2" class="tab-pane fade"><br></div>
+								<div id="home" class="tab-pane fade"><br> <br>
+								      <h5 class="lol">Sept. 15, 2018 - Deadline of Payment for Open Final Preboard <span class="badge" style="background-color:tomato; cursor: pointer;">Read More</span></h5>
+								      <h5 class="lol">Sept. 22 -23, 2018 - OPEN FINAL PREBOARD<span class="badge" style="background-color:tomato; cursor: pointer;">Read More</span></h5>
+								      <h5 class="lol">Sept. 28, 2018 - CPD Seminar<span class="badge" style="background-color:tomato; cursor: pointer;">Read More</span></h5>
+								      <h5 class="lol">October Weekends - CPD Seminar<span class="badge" style="background-color:tomato; cursor: pointer;">Read More</span></h5>
+								      <h5 class="lol">Nov. 25, 2018 - Start of Weekend Session<span class="badge" style="background-color:tomato; cursor: pointer;">Read More</span></h5>
+								      <h5 class="lol">Nov. 30, 2018 - Start of Daily/Night Session<span class="badge" style="background-color:tomato; cursor: pointer;">Read More</span></h5>
 								    </div>
 							  </div>
 						</div>

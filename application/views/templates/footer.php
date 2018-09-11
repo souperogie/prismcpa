@@ -21,16 +21,16 @@
 							<br><br><br>
 								<div class="row row-centered">
 									<div class="col-sm-2 col-centered" style="text-align: center;">
-										<a href="#" class="btn-lg btn-primary"><span class="fa fa-facebook"></span></a>
+										<a href="https://www.facebook.com/prismcpareview/" class="btn-lg btn-primary"><span class="fa fa-facebook"></span></a>
 									</div>
 									<div class="col-sm-2 col-centered" style="text-align: center;">
-										<a href="#" class="btn-lg btn-primary"><span class="fa fa-instagram"></span></a>
+										<a href="https://www.instagram.com/prismcpareview/" class="btn-lg btn-primary"><span class="fa fa-instagram"></span></a>
 									</div>
 									<div class="col-sm-2 col-centered" style="text-align: center;">
-										<a href="#" class="btn-lg btn-primary"><span class="fa fa-twitter"></span></a>
+										<a href="https://twitter.com/prismcpareview" class="btn-lg btn-primary"><span class="fa fa-twitter"></span></a>
 									</div>
 									<div class="col-sm-2 col-centered" style="text-align: center;">
-										<a href="#" class="btn-lg btn-primary"><span class="fa fa-youtube"></span></a>
+										<a href="https://www.youtube.com/channel/UC5-7GP1QealiaFbgKcLkWzg/featured?view_as=subscriber" class="btn-lg btn-primary"><span class="fa fa-youtube"></span></a>
 									</div>
 								</div>
 						</div>     
